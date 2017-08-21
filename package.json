@@ -1,0 +1,21 @@
+{
+  "name": "canvas1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "uglifyjs-webpack-plugin": "^0.4.6",
+    "webpack": "^3.5.5"
+  },
+  "dependencies": {
+    "babel-minify-webpack-plugin": "^0.2.0",
+    "lodash": "^4.17.4"
+  }
+}
